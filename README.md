@@ -8,7 +8,7 @@
 
 ## Habilidades e Metas
 
-  Nesta carreira existe várias habilidades que podem destacar um profissional na área, como cooperatividade, pensamento crítico, comunicação e inteligência emocional. essas são algumas skills que tem bastante importância em sua caminhada por essa carreira. Também é importante ter todo o conhecimento técnico em linguagens e programas que você como profissional irá utilizar, pois um bom conhecimento técnico com uma boa base em lógica de programação diferenciará um programdor esperto de um programador profissional. Na mesma medida que deve existir metas, tanto a longo prazo como curto prazo, para que vc como estudante ou profissional na área de TI se sinta motivado em evoluir e conseguir mais experiência e consequentemente melhores cargos em sua trajetória.
+  Nesta carreira existe várias habilidades que podem destacar um profissional na área, como cooperatividade, pensamento crítico, comunicação e inteligência emocional. essas são algumas skills que tem bastante importância em sua caminhada por essa carreira. Também é importante ter todo o conhecimento técnico em linguagens e programas que você como profissional irá utilizar, pois um bom conhecimento técnico com uma boa base em lógica de programação diferenciará um programdor esperto de um programador profissional. Na mesma medida que deve existir metas, tanto a longo prazo como curto prazo, para que você como estudante ou profissional na área de TI se sinta motivado em evoluir e conseguir mais experiência e consequentemente melhores cargos em sua trajetória.
 
 ![TI](https://github.com/user-attachments/assets/d3f60943-78ad-4f52-9938-501af2dd58c5)
 
@@ -34,7 +34,7 @@
 
   💡 OBJETIVO GENÉRICO: "Quero conseguir um emprego em tecnologia"
 
-  ✅ OBJETIVO SMART: "Quero conseguir meu primeiro estágio como desenvolvedor(a) front-end em até 6 meses, aprendendo HTML, CSS e JAVASCRIPT, desemvolvendo 3 projetos no Github e criando um perfil otimizado no         Linkedin
+  ✅ OBJETIVO SMART: "Quero conseguir meu primeiro estágio como desenvolvedor(a) front-end em até 6 meses, aprendendo HTML, CSS e JAVASCRIPT, desemvolvendo 3 projetos no Github e criando um perfil otimizado no Linkedin
   
 ![TI](https://github.com/user-attachments/assets/182e5692-68e5-44f2-957b-be5a6f011d2f)
 
